@@ -2,13 +2,13 @@ WebKeyOS - Sistema operativo de escritorio web para plataformas de baja potencia
 
 Subservicios - https://github.com/XDEVGMS/WKLabs
 
-WebApp - https://github.com/XDEVGMS/WK0S/tree/main/WebApp
+WebApp - https://github.com/YMKTEAM/WKOSX/tree/main/WebApp
 
 Background Login - https://github.com/XDEVGMS/WK0S/tree/main/WKBGround
 
-Idiomas+ - https://github.com/XDEVGMS/WK0S/tree/main/LNG
+Idiomas+ - https://github.com/YMKTEAM/WKOSX/tree/main/LNG
 
-Kernel v3.0.9 (Build Stable) | Web UI v4.0.0 | LauncherOTA v2.015
+Kernel v3.1.7 LTS (Build Stable) | Web UI v4.1.1 | LauncherOTA v2.1
 
 Hecho con ❤️ por el equipo de XDEV Team, Nayeli, Kenai y ZKS.
 
@@ -65,5 +65,3 @@ Others
     Support for Responsive Web Design (RWD) for different screen size
     Support use as Progress WebApp (PWA) on mobile devices
     Support desktop devices with touch screen
-
-
