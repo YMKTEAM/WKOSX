@@ -1,3 +1,4 @@
+![](https://i.imgur.com/waxVImv.png)
 WebKeyOS - Sistema operativo de escritorio web para plataformas de baja potencia y Portables USB Key's
 
 Subservicios - https://github.com/XDEVGMS/WKLabs
@@ -11,7 +12,7 @@ Idiomas+ - https://github.com/YMKTEAM/WKOSX/tree/main/LNG
 Kernel v3.1.7 LTS (Build Stable) | Web UI v4.1.1 | LauncherOTA v2.1
 
 Hecho con ❤️ por el equipo de XDEV Team, Nayeli, Kenai y ZKS.
-
+![](https://i.imgur.com/waxVImv.png)
 
 Features
 User Interface
